@@ -1,5 +1,6 @@
 Hol este archivo si sirve
 este su funciona
+<<<<<<< HEAD
 y este no
 er
 erer
@@ -9,3 +10,6 @@ erf
 funcionaf
 funciona
 
+=======
+y este n
+>>>>>>> lenovo
